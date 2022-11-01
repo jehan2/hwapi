@@ -54,3 +54,8 @@
 .dataItem {
   margin-left: 10px;
 } 
+ ul{
+  display: flex;
+  justify-content: space-between;
+  background-color: antiquewhite;
+ }

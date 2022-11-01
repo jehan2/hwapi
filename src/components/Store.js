@@ -12,6 +12,7 @@
         useColorModeValue,
 
       } from '@chakra-ui/react';
+      import { Grid } from '@chakra-ui/react';
       
       export default function Store(props) {
         
@@ -75,6 +76,8 @@
                     boxShadow: 'lg',
                   }}>
                   {vall}
+
+                  
                 </Button>
               </Box>
             </Box>
